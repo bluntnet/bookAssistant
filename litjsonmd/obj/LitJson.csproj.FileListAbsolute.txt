@@ -1,0 +1,15 @@
+D:\myself\~春华网购\BookAssistant4.12\litjsonmd\bin\Release\LitJson.dll
+D:\myself\~春华网购\BookAssistant4.12\litjsonmd\bin\Release\LitJson.pdb
+D:\myself\~春华网购\BookAssistant4.12\litjsonmd\obj\Release\ResolveAssemblyReference.cache
+D:\myself\~春华网购\BookAssistant4.12\litjsonmd\obj\Release\LitJson.dll
+D:\myself\~春华网购\BookAssistant4.12\litjsonmd\obj\Release\LitJson.pdb
+D:\projects\BookAssistant20110304\litjsonmd\bin\Release\LitJson.dll
+D:\projects\BookAssistant20110304\litjsonmd\bin\Release\LitJson.pdb
+D:\projects\BookAssistant20110304\litjsonmd\obj\Release\ResolveAssemblyReference.cache
+D:\projects\BookAssistant20110304\litjsonmd\obj\Release\LitJson.dll
+D:\projects\BookAssistant20110304\litjsonmd\obj\Release\LitJson.pdb
+D:\share\projects\BookAssistant20110304\litjsonmd\bin\Release\LitJson.dll
+D:\share\projects\BookAssistant20110304\litjsonmd\bin\Release\LitJson.pdb
+D:\share\projects\BookAssistant20110304\litjsonmd\obj\Release\ResolveAssemblyReference.cache
+D:\share\projects\BookAssistant20110304\litjsonmd\obj\Release\LitJson.dll
+D:\share\projects\BookAssistant20110304\litjsonmd\obj\Release\LitJson.pdb

@@ -1,0 +1,14 @@
+D:\machine_bak\bak__\share\projects\BookAssistant20110304\CsvLib\bin\Debug\CsvLib.dll
+D:\machine_bak\bak__\share\projects\BookAssistant20110304\CsvLib\bin\Debug\CsvLib.pdb
+D:\machine_bak\bak__\share\projects\BookAssistant20110304\CsvLib\obj\Debug\CsvLib.dll
+D:\machine_bak\bak__\share\projects\BookAssistant20110304\CsvLib\obj\Debug\CsvLib.pdb
+D:\sharefolder\BookAssistant20110304.bak\CsvLib\bin\Debug\CsvLib.dll
+D:\sharefolder\BookAssistant20110304.bak\CsvLib\bin\Debug\CsvLib.pdb
+D:\sharefolder\BookAssistant20110304.bak\CsvLib\obj\Debug\CsvLib.dll
+D:\sharefolder\BookAssistant20110304.bak\CsvLib\obj\Debug\CsvLib.pdb
+D:\c#_projects\BookAssistant20110304.bak\CsvLib\bin\Debug\CsvLib.dll
+D:\c#_projects\BookAssistant20110304.bak\CsvLib\bin\Debug\CsvLib.pdb
+D:\c#_projects\BookAssistant20110304.bak\CsvLib\obj\Debug\CsvLib.csprojAssemblyReference.cache
+D:\c#_projects\BookAssistant20110304.bak\CsvLib\obj\Debug\CsvLib.csproj.CoreCompileInputs.cache
+D:\c#_projects\BookAssistant20110304.bak\CsvLib\obj\Debug\CsvLib.dll
+D:\c#_projects\BookAssistant20110304.bak\CsvLib\obj\Debug\CsvLib.pdb

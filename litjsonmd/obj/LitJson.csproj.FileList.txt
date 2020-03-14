@@ -1,0 +1,5 @@
+bin\Release\LitJson.dll
+bin\Release\LitJson.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\LitJson.dll
+obj\Release\LitJson.pdb

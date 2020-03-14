@@ -1,0 +1,10 @@
+bin\Debug\CsvLib.dll
+bin\Debug\CsvLib.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CsvLib.dll
+obj\Debug\CsvLib.pdb
+bin\Release\CsvLib.dll
+bin\Release\CsvLib.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\CsvLib.dll
+obj\Release\CsvLib.pdb

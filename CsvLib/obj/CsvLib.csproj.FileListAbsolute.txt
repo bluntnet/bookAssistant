@@ -1,0 +1,15 @@
+D:\myself\~春华网购\BookAssistant4.12\CsvLib\bin\Release\CsvLib.dll
+D:\myself\~春华网购\BookAssistant4.12\CsvLib\bin\Release\CsvLib.pdb
+D:\myself\~春华网购\BookAssistant4.12\CsvLib\obj\Release\ResolveAssemblyReference.cache
+D:\myself\~春华网购\BookAssistant4.12\CsvLib\obj\Release\CsvLib.dll
+D:\myself\~春华网购\BookAssistant4.12\CsvLib\obj\Release\CsvLib.pdb
+D:\projects\BookAssistant20110304\CsvLib\bin\Release\CsvLib.dll
+D:\projects\BookAssistant20110304\CsvLib\bin\Release\CsvLib.pdb
+D:\projects\BookAssistant20110304\CsvLib\obj\Release\ResolveAssemblyReference.cache
+D:\projects\BookAssistant20110304\CsvLib\obj\Release\CsvLib.dll
+D:\projects\BookAssistant20110304\CsvLib\obj\Release\CsvLib.pdb
+D:\share\projects\BookAssistant20110304\CsvLib\bin\Release\CsvLib.dll
+D:\share\projects\BookAssistant20110304\CsvLib\bin\Release\CsvLib.pdb
+D:\share\projects\BookAssistant20110304\CsvLib\obj\Release\ResolveAssemblyReference.cache
+D:\share\projects\BookAssistant20110304\CsvLib\obj\Release\CsvLib.dll
+D:\share\projects\BookAssistant20110304\CsvLib\obj\Release\CsvLib.pdb
