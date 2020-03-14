@@ -12,3 +12,9 @@ D:\c#_projects\BookAssistant20110304.bak\CsvLib\obj\Debug\CsvLib.csprojAssemblyR
 D:\c#_projects\BookAssistant20110304.bak\CsvLib\obj\Debug\CsvLib.csproj.CoreCompileInputs.cache
 D:\c#_projects\BookAssistant20110304.bak\CsvLib\obj\Debug\CsvLib.dll
 D:\c#_projects\BookAssistant20110304.bak\CsvLib\obj\Debug\CsvLib.pdb
+D:\c#_projects\book\CsvLib\bin\Debug\CsvLib.dll
+D:\c#_projects\book\CsvLib\bin\Debug\CsvLib.pdb
+D:\c#_projects\book\CsvLib\obj\Debug\CsvLib.csprojAssemblyReference.cache
+D:\c#_projects\book\CsvLib\obj\Debug\CsvLib.csproj.CoreCompileInputs.cache
+D:\c#_projects\book\CsvLib\obj\Debug\CsvLib.dll
+D:\c#_projects\book\CsvLib\obj\Debug\CsvLib.pdb

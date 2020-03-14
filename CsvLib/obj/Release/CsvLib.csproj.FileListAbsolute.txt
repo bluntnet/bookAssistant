@@ -19,3 +19,9 @@ D:\c#_projects\BookAssistant20110304.bak\CsvLib\obj\Release\CsvLib.csprojAssembl
 D:\c#_projects\BookAssistant20110304.bak\CsvLib\obj\Release\CsvLib.csproj.CoreCompileInputs.cache
 D:\c#_projects\BookAssistant20110304.bak\CsvLib\obj\Release\CsvLib.dll
 D:\c#_projects\BookAssistant20110304.bak\CsvLib\obj\Release\CsvLib.pdb
+D:\c#_projects\book\CsvLib\bin\Release\CsvLib.dll
+D:\c#_projects\book\CsvLib\bin\Release\CsvLib.pdb
+D:\c#_projects\book\CsvLib\obj\Release\CsvLib.csprojAssemblyReference.cache
+D:\c#_projects\book\CsvLib\obj\Release\CsvLib.csproj.CoreCompileInputs.cache
+D:\c#_projects\book\CsvLib\obj\Release\CsvLib.dll
+D:\c#_projects\book\CsvLib\obj\Release\CsvLib.pdb

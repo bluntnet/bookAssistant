@@ -68,7 +68,7 @@
             this.searchBtn.Name = "searchBtn";
             this.searchBtn.Size = new System.Drawing.Size(147, 29);
             this.searchBtn.TabIndex = 6;
-            this.searchBtn.Text = "搜索新华书店";
+            this.searchBtn.Text = "搜索";
             this.searchBtn.UseVisualStyleBackColor = true;
             this.searchBtn.Click += new System.EventHandler(this.searchBtn_Click);
             // 

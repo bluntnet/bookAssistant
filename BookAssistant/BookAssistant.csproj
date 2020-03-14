@@ -127,6 +127,7 @@
     <Compile Include="taobaoCSV\BookInfo.cs" />
     <Compile Include="taobaoCSV\TBColumn.cs" />
     <Compile Include="taobaoCSV\TBCSV.cs" />
+    <Compile Include="Util\HtmlUtils.cs" />
     <Compile Include="Util\HttpRequestUtil.cs" />
     <Compile Include="Util\WebUtil.cs" />
     <Compile Include="XHForm.cs">

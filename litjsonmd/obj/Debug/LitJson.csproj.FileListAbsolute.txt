@@ -18,3 +18,9 @@ D:\c#_projects\BookAssistant20110304.bak\litjsonmd\obj\Debug\LitJson.csprojAssem
 D:\c#_projects\BookAssistant20110304.bak\litjsonmd\obj\Debug\LitJson.csproj.CoreCompileInputs.cache
 D:\c#_projects\BookAssistant20110304.bak\litjsonmd\obj\Debug\LitJson.dll
 D:\c#_projects\BookAssistant20110304.bak\litjsonmd\obj\Debug\LitJson.pdb
+D:\c#_projects\book\litjsonmd\bin\Debug\LitJson.dll
+D:\c#_projects\book\litjsonmd\bin\Debug\LitJson.pdb
+D:\c#_projects\book\litjsonmd\obj\Debug\LitJson.csprojAssemblyReference.cache
+D:\c#_projects\book\litjsonmd\obj\Debug\LitJson.csproj.CoreCompileInputs.cache
+D:\c#_projects\book\litjsonmd\obj\Debug\LitJson.dll
+D:\c#_projects\book\litjsonmd\obj\Debug\LitJson.pdb
