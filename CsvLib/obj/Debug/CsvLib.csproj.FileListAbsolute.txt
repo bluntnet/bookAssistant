@@ -18,3 +18,8 @@ D:\c#_projects\book\CsvLib\obj\Debug\CsvLib.csprojAssemblyReference.cache
 D:\c#_projects\book\CsvLib\obj\Debug\CsvLib.csproj.CoreCompileInputs.cache
 D:\c#_projects\book\CsvLib\obj\Debug\CsvLib.dll
 D:\c#_projects\book\CsvLib\obj\Debug\CsvLib.pdb
+D:\csharp-projects\bookAssistant\CsvLib\bin\Debug\CsvLib.dll
+D:\csharp-projects\bookAssistant\CsvLib\bin\Debug\CsvLib.pdb
+D:\csharp-projects\bookAssistant\CsvLib\obj\Debug\CsvLib.csproj.CoreCompileInputs.cache
+D:\csharp-projects\bookAssistant\CsvLib\obj\Debug\CsvLib.dll
+D:\csharp-projects\bookAssistant\CsvLib\obj\Debug\CsvLib.pdb

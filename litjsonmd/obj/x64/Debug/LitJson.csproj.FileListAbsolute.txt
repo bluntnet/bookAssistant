@@ -1,0 +1,6 @@
+D:\csharp-projects\bookAssistant\litjsonmd\bin\x64\Debug\LitJson.dll
+D:\csharp-projects\bookAssistant\litjsonmd\bin\x64\Debug\LitJson.pdb
+D:\csharp-projects\bookAssistant\litjsonmd\obj\x64\Debug\LitJson.csprojAssemblyReference.cache
+D:\csharp-projects\bookAssistant\litjsonmd\obj\x64\Debug\LitJson.csproj.CoreCompileInputs.cache
+D:\csharp-projects\bookAssistant\litjsonmd\obj\x64\Debug\LitJson.dll
+D:\csharp-projects\bookAssistant\litjsonmd\obj\x64\Debug\LitJson.pdb

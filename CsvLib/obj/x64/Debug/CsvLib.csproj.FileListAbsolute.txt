@@ -1,0 +1,6 @@
+D:\csharp-projects\bookAssistant\CsvLib\bin\x64\Debug\CsvLib.dll
+D:\csharp-projects\bookAssistant\CsvLib\bin\x64\Debug\CsvLib.pdb
+D:\csharp-projects\bookAssistant\CsvLib\obj\x64\Debug\CsvLib.csproj.CoreCompileInputs.cache
+D:\csharp-projects\bookAssistant\CsvLib\obj\x64\Debug\CsvLib.dll
+D:\csharp-projects\bookAssistant\CsvLib\obj\x64\Debug\CsvLib.pdb
+D:\csharp-projects\bookAssistant\CsvLib\obj\x64\Debug\CsvLib.csprojAssemblyReference.cache
