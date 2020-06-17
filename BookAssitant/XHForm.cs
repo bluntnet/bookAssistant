@@ -22,13 +22,13 @@ namespace BookAssistant {
         public static string webUrl = "http://pub.xhsd.com.cn/books/";
         public static string webViewUrl = "http://pub.xhsd.com.cn/books/views.asp";
         public static string SEARCH_HOST_URL = "http://pub.xhsd.com.cn/books/searchfull.asp";
-
+        public static string QUERY_SEPARATE = "&amp;";
         //delegate string WebBroswerDelegate();
         public static string wbHtml = "";
         private string csvFileName = "";
         private string searchKey = "";
         private string searchWord = "";
-
+        
         public string CsvFileName {
             get { return csvFileName; }
             set { csvFileName = value; }
@@ -253,9 +253,9 @@ namespace BookAssistant {
                 wbHtml = code.Result;
             });
             while (wbHtml.Length < 10) {
-                Thread.Sleep(200);
+                Thread.Sleep(100);
             }
-            MessageBox.Show(wbHtml.Substring(0,20));
+            //MessageBox.Show(wbHtml.Substring(0,20));
         }
 
         private void downloadTask() {
@@ -263,6 +263,7 @@ namespace BookAssistant {
             //Console.Write(webBrowser1.DocumentText);
 
             //string htmlString = webBrowser1.DocumentText;
+
             string htmlString = wbHtml;
             string formString = "";
             string formStart = "<form method=\"POST\" action=\"searchfull.asp?plu_title=";
@@ -297,11 +298,11 @@ namespace BookAssistant {
                 return;
             }
             searchString = formString.Substring(formString.IndexOf("searchfull.asp"));
-            if (formString.IndexOf("&page=") == -1) {
+            if (formString.IndexOf(QUERY_SEPARATE+"page=") == -1) {
                 logger("¹Ø¼ü×ÖÃ»ÕÒµ½£¡");
                 return;
             }
-            searchString = searchString.Substring(0, searchString.IndexOf("&page="));
+            searchString = searchString.Substring(0, searchString.IndexOf(QUERY_SEPARATE+"page="));
             Console.WriteLine("searchString====" + searchString);
             string orderString = "";
             if (formString.IndexOf("order=") == -1) {
@@ -423,6 +424,7 @@ namespace BookAssistant {
 
         }
         private string getPageContent(string url, int pageNumber, string order) {
+            order = order.Replace("&amp;", "&");
             string clientUrl = webUrl + url + "&page=" + pageNumber + "&order=" + order;
 
             return HttpRequestUtil.requestURL(clientUrl, "utf-8");
